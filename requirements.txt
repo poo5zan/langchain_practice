@@ -1,1 +1,9 @@
 langchain
+langchain-cli
+langchain-openai
+python-dotenv
+beautifulsoup4
+faiss-cpu
+langchainhub
+langserve[all]
+

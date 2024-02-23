@@ -1,2 +1,4 @@
 langchain_practice_venv/
 .DS_Store
+credentials/
+.env
